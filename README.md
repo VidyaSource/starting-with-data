@@ -3,8 +3,8 @@
 ##Description
 
 These are the files that accompany the [Vidya](http://www.vidyasource.com) video tutorial 
-[Starting with Data](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A) on accessing data on the web and visualizing
-it.
+[Starting with Data](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A) on accessing and visualizing
+data on the web.
 
 
 ##Intended Audience
