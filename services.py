@@ -5,7 +5,7 @@ import urllib2
 app = Flask(__name__)
 
 @app.route('/')
-def hello_world():
+def test():
     return 'Everything is running!'
 
 @app.route('/projects/highpoverty/states')
