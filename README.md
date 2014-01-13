@@ -24,7 +24,9 @@ Once you have Python running, download the files and navigate to the top level i
 and navigate to *http://127.0.0.1:5000/* in your browser. If you see "Everything is running!," then you're running the
 simple REST application described in the tutorial.
 
-Follow along with the tutorial [video](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A)
+To see the map, navigate to *http://127.0.0.1:5000/static/map.html.* Note that the map will likely look different from the one in the tutorial because the high poverty projects managed by Donors Choose are changing all the time. 
+
+Follow along with the tutorial [video](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A),
 or play with the HTML, SVG, Python, or D3 code yourself in your favorite editor to see what happens.
 
 
