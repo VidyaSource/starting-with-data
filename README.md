@@ -3,7 +3,7 @@
 ##Description
 
 These are the files that accompany the [Vidya](http://www.vidyasource.com) video tutorial 
-[Starting with Data](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A) on accessing and visualizing
+[Starting with Data](https://www.youtube.com/watch?v=bzl4hCH2CdY) on accessing and visualizing
 data on the web.
 
 
@@ -26,7 +26,7 @@ simple REST application described in the tutorial.
 
 To see the map, navigate to *http://127.0.0.1:5000/static/map.html.* Note that the map will likely look different from the one in the tutorial because the high poverty projects managed by Donors Choose are changing all the time. 
 
-Follow along with the tutorial [video](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A),
+Follow along with the tutorial [video](https://www.youtube.com/watch?v=bzl4hCH2CdY),
 or play with the HTML, SVG, Python, or D3 code yourself in your favorite editor to see what happens.
 
 
